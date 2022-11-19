@@ -1,6 +1,11 @@
-# FileManagerFrontend
+# File Manager Frontend
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.9.
+
+## Description
+
+1. Store user files online. Add, delete, update, create, display.
+2. Find duplicate file one the system (folder) of the user. Display info, let user decide.
 
 ## Development server
 
